@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Madman185
-- 👀 I’m interested in Python for finance
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything i'd be able to help
 - 📫 How to reach me message me here ! 
